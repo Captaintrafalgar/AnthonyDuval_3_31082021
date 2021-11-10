@@ -30,8 +30,8 @@ main {
 
     }
  
-a {
-    color:white;
+a, a:link, a:visited, a:hover, a:active {
+
     text-decoration: none;
 }
 .spinner {
@@ -52,7 +52,9 @@ a {
 
 
 
-
+.bigtitle {
+    color:black;
+}
 
 
 
@@ -264,11 +266,10 @@ footer {
  
     display:flex;
     margin-left:-2rem;
+}
 
-    
-
-    
-
+.colorfooter {
+    color: white;
 }
 
 
@@ -544,10 +545,6 @@ footer {
     justify-content: center;
 }
 
-a {
-    text-decoration:none;
-    color:black;
-}
 
 .restauranticon {
     background-color: black;
