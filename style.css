@@ -544,7 +544,6 @@ footer {
   mix-blend-mode: lighten;
 }
 
-
 .restaurant-heart-menu {
   background-color: rgb(223, 223, 223) !important;
   position: absolute;
@@ -673,7 +672,6 @@ footer {
   }
 }
 
-
 .restaurantHeart {
   background-color: black;
   width: 2rem;
@@ -747,8 +745,6 @@ footer {
     align-content: center;
   }
 
-
-
   #imgresto {
     object-fit: cover;
   }
@@ -788,5 +784,4 @@ footer {
   #footerresto {
     align-content: unset;
   }
-
 }
